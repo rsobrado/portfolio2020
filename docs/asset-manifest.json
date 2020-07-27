@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a471c1ae.chunk.css",
+    "main.js": "/static/js/main.51fe9f6c.chunk.js",
+    "main.js.map": "/static/js/main.51fe9f6c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b02d32e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b02d32e7.js.map",
+    "static/js/2.8b53b5e3.chunk.js": "/static/js/2.8b53b5e3.chunk.js",
+    "static/js/2.8b53b5e3.chunk.js.map": "/static/js/2.8b53b5e3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7250768f5c28612874c9ad75d85818c3.js": "/precache-manifest.7250768f5c28612874c9ad75d85818c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a471c1ae.chunk.css.map": "/static/css/main.a471c1ae.chunk.css.map",
+    "static/js/2.8b53b5e3.chunk.js.LICENSE.txt": "/static/js/2.8b53b5e3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg-paper01.c8ae8d22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b02d32e7.js",
+    "static/js/2.8b53b5e3.chunk.js",
+    "static/css/main.a471c1ae.chunk.css",
+    "static/js/main.51fe9f6c.chunk.js"
+  ]
+}

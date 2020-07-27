@@ -1,47 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #022046;
+  background: linear-gradient(67deg, #022046, #03264b 8%, #0b6886 69%);
+}
 a {
-  color: white;
+  color: #fff;
   text-decoration: none;
   font-size: large;
 }
-
 p {
   padding-top: 30px;
   text-align: center;
 }
-
 h1 {
   font-family: 'Yellowtail', sans-serif;
-  color: white;
+  color: #fff;
   line-height: 1.2;
   text-transform: capitalize;
   margin: 50px 0 0;
   padding: 0;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    -webkit-animation: App-logo-spin 20s linear infinite;
+    animation: App-logo-spin 20s linear infinite;
   }
 }
-
-@keyframes App-logo-spin {
-  from {
+@-webkit-keyframes App-logo-spin {
+  0% {
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(1turn);
   }
 }
-
+@keyframes App-logo-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(1turn);
+  }
+}
 .overlay {
-  background: url('../src/img/bg-paper01.jpg');
-  width: calc(100%);
-  height: calc(150%);
+  background: url(./../media/bg-paper01.c8ae8d22.jpg);
+  width: 100%;
+  height: 150%;
   mix-blend-mode: color-burn;
   background-size: contain;
   position: fixed;
@@ -50,21 +63,20 @@ h1 {
   z-index: 169;
   pointer-events: none;
 }
-
 .MuiCardContent-root img {
   width: 100%;
   border-radius: 4px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
-
 .MuiCardActions-root {
   justify-content: center;
 }
-
 .MuiPaper-root {
-  background-color: rgba(255, 255, 255, 0.7) !important;
+  background-color: hsla(0, 0%, 100%, 0.7) !important;
 }
 .MuiCard-root {
+  overflow: visible !important;
   overflow: initial !important;
   margin-top: 70px;
 }
+/*# sourceMappingURL=main.a471c1ae.chunk.css.map */

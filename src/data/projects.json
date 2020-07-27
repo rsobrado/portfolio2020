@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Labworxs",
+    "url": "http://golabworxs.com/",
+    "thumb": "./img/lw.png",
+    "desc": "E-commerce Shopify based platform and EFI car performance modifications",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "Shopify" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "ScotiaBank",
+    "url": "http://scotiabankcr.com/",
+    "thumb": "./img/sb.png",
+    "desc": "UI/UX Redesign incluiding UI Kit design and development, integration and architeture",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "Java" },
+      { "tech": "React" },
+      { "tech": "Angular" },
+      { "tech": ".Net" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Atlanta Classifieds",
+    "url": "https://properties.atlanta.com/",
+    "thumb": "./img/atlanta.jpg",
+    "desc": "Official Atlata's listing portal. Wordpress based, responsive, custom theme plus add-ons.",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Dave and Busters",
+    "url": "http://daveandbusters.com/",
+    "thumb": "./img/dnb.jpg",
+    "desc": "Modular and customizable multi websites CMS using Umbraco as platform.",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Amanda Mills",
+    "url": "https://www.amandamillsla.com/",
+    "thumb": "./img/am.jpg",
+    "desc": "Blog / e-commerce Wordpress based platform for a LA’s popular fashion advisor, Amanda Mills.",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Gold's Gym",
+    "url": "http://web.archive.org/web/20160409044817/http://www.goldsgym.com/",
+    "thumb": "./img/gg.jpg",
+    "desc": "Multisite Wordpress based(920+). Maintenance, development and implementation of new features.",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Trance-Silvania",
+    "url": "http://rsobrado.github.io/halloween2013/",
+    "thumb": "./img/ts.jpg",
+    "desc": "Parallax and CSS animation landing page",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Bodega Studio",
+    "url": "http://bodega-studio.com",
+    "thumb": "./img/bdg.jpg",
+    "desc": "Furniture Studio founded in 2013 and based in Costa Rica, specialized in industrial design and fabrication.",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  },
+  {
+    "name": "Made Community",
+    "url": "https://made.community/",
+    "thumb": "./img/made.jpg",
+    "desc": "Blog and e-commerce wordpress based platform for a EGO and Casa Galeria Magazines.",
+    "stack": [
+      { "tech": "HTML5" },
+      { "tech": "CSS3" },
+      { "tech": "JS" },
+      { "tech": "WordPress" },
+      { "tech": "Node" }
+    ]
+  }
+]
